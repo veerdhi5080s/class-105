@@ -1,0 +1,22 @@
+body{
+    color: white;
+    background-color: rgb(255, 153, 0);
+}
+
+.heading{
+    color: white;
+    background-color: rgb(185, 0, 0);
+    width: 80%;
+    font-size: medium;
+}
+
+#camera{
+    border: 2px black; 
+    width: 350px;
+    height: 270px;
+}
+
+.name_of_objects, #result_object_name,#result_object_accuracy{
+    font-weight: bolder;
+    color: white;
+}
